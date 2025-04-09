@@ -1,3 +1,4 @@
 #!/bin/sh
 
-cat toDelete.txt
+touch toDelete.txt
+rm toDelete.txt
